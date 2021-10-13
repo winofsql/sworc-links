@@ -1,6 +1,6 @@
 # sworc-links
 
-[Google](http://www.google.co.jp/) 　 [Google ドライブ](https://drive.google.com/drive)
+[Google](http://www.google.co.jp/) 　 [Google ドライブ](https://drive.google.com/drive) 　 [Google 翻訳](https://translate.google.co.jp/?hl=ja&tab=rT)
 
 | &nbsp; | &nbsp; |
 | ------------- | ------------- |
