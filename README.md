@@ -4,5 +4,5 @@
 
 | 日次　　　　　　　　　　　　　　　　　　　　　　 | その他　　　　　　　　　　　　　　　　　　　　　　 |
 | ------------- | ------------- |
-| [twitter](https://twitter.com/i/flow/login)  | [nifty](https://mail.nifty.com/mailer/)  |
+| 1. [twitter](https://twitter.com/i/flow/login)  | 1. [nifty](https://mail.nifty.com/mailer/)  |
 
