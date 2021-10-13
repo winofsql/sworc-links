@@ -4,6 +4,6 @@
 
 | 日次　　　　　　　　　　　　　　　　　　　　　　 | その他　　　　　　　　　　　　　　　　　　　　　　 |
 | ------------- | ------------- |
-| - [twitter](https://twitter.com/i/flow/login) | 1. [nifty](https://mail.nifty.com/mailer/)  |
-| - [Facebook](https://www.facebook.com/home.php) |   |
+| [twitter](https://twitter.com/i/flow/login) | 1. [nifty](https://mail.nifty.com/mailer/)  |
+| [Facebook](https://www.facebook.com/home.php) |   |
 
