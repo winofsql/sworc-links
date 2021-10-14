@@ -5,5 +5,5 @@
 | 日次　　　　　　　　　　　　　　　　　　　　　　 | その他　　　　　　　　　　　　　　　　　　　　　　 |
 | ------------- | ------------- |
 | 1. [twitter](https://twitter.com/home) | 1. [nifty](https://mail.nifty.com/mailer/)  |
-| 2. [Facebook](https://www.facebook.com/home.php) |   |
+| 2. [Facebook](https://www.facebook.com/home.php) | [Gmail](https://mail.google.com/mail?hl=ja) |
 
