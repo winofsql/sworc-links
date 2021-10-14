@@ -5,5 +5,5 @@
 | 日次　　　　　　　　　　　　　 | その他　　　　　　　　　　　　　 | ツール　　　　　　　　　　　　　 |
 | ------------- | ------------- | ------------- |
 | 1. [twitter](https://twitter.com/home) | 1. [nifty](https://mail.nifty.com/mailer/)  | 1. [フリーフォントで簡単ロゴ作成](http://lightbox.on.coocan.jp/html/fontImage.php)
-| 2. [Facebook](https://www.facebook.com/home.php) | 2. [Gmail](https://mail.google.com/mail?hl=ja) |  | 2. 
+| 2. [Facebook](https://www.facebook.com/home.php) | 2. [Gmail](https://mail.google.com/mail?hl=ja) | 2.  |
 
